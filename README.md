@@ -12,6 +12,8 @@
 
 •	Utilised stripe api for payments.
 
+•	Imported mongoose library for making schemas and connecting with MongoDB.
+
 •	Users can add products to their cart, views their orders, wishlist their favourite product for later convenience.
 
 •	Admins can update and delete any product and manage the user data being stored for altering orders status if cancellation is requested.
@@ -22,6 +24,7 @@
 
 
 ScreenShots :
+
 ![Screenshot](postman_mail_ss.png)
 
 
